@@ -1,4 +1,4 @@
-# rockeseat_nlw_sports_react
+# rockeseat_nlw_sports_react: Backend
 
 Stage 1/6 | Aula Prática - Base Building
 
@@ -17,3 +17,5 @@ Em package.json tive que trocar o script e dentro dele mudei o nome 'test' para 
 Ao rodar npm run build consigo converter e criar um arquivo ts para js.
 
 Arquivo tsconfig.json: especifica os arquivos raiz e as configurações de compilação necessárias para o projeto (arquivo de configuração) - comando: npx tsc --init .
+
+Para criar projetos tanto react, tanto vue.js entre outros , usamos a ferramenta ViteJS , ou seja, é necessário ter uma ferramenta de compilação que convertar o código para o formato que o browser entenda
