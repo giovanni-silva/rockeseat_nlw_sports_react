@@ -14,3 +14,9 @@ O Tailwind CSS torna mais rápido escrever e manter o código do seu aplicativo.
 PostCSS :PostCSS pode ser usado como pré ou pós processador, substituindo ou sendo usado junto com um pré-processador. Ele sozinho apenas torna o CSS acessível em JavaScript possibilitando uma infinidade de plugins e ferramentas personalizadas.Por isso o PostCSS é mais bem definido como um ecossistema de plugins e ferramentas.
 
 Phosphor icons: Phosphor é uma família de ícones flexível para interfaces, diagramas, apresentações — o que for, na verdade. (Podemos importar os icones do react.)
+
+Aula 4 - Power Up
+
+Radix-ui: Uma biblioteca de componentes de interface do usuário de código aberto para criar sistemas de design e aplicativos da Web acessíveis e de alta qualidade.
+
+https://www.radix-ui.com/docs/primitives/overview/introduction
