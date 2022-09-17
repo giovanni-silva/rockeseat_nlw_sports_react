@@ -1,4 +1,6 @@
-# rockeseat_nlw_sports_react: Backend
+# rockeseat_nlw_sports_react: #REACT + REACT NATIVE + SQLITE
+
+Backend
 
 Stage 1/6 | Aula Prática - Base Building
 
