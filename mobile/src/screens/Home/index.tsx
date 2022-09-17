@@ -1,3 +1,4 @@
+import { useEffect } from "react";
 import { View, Image, FlatList } from "react-native";
 
 import logImg from "../../assets/logo-nlw-esports.png";
@@ -8,6 +9,12 @@ import { GAMES } from "../../utils/games";
 import { styles } from "./styles";
 
 export function Home() {
+  useEffect(() => {
+    fetch("https://192.168.0.113:3333/games")
+      .then((response) => response.json())
+      .then((data) => console.log(data));
+  }, []);
+
   return (
     <View style={styles.container}>
       <Image source={logImg} style={styles.logo} />
